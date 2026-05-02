@@ -103,7 +103,17 @@ A working prototype demonstrates:
 
 ---
 
-## 📌 Conclusion
+
+
+##  Conclusion
 
 Smart Farmer is not just a project…
 It is a step toward building the future of **intelligent, connected, and sustainable agriculture**.
+
+
+
+##Video 
+
+
+https://github.com/user-attachments/assets/d5027fff-dce6-41ca-b366-790322de5d4c
+
